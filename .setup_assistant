@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ainex_description
+    relative_path: urdf/ainex.urdf.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/ainex.srdf
+  CONFIG:
+    author_name: vladimir_kul
+    author_email: kvskiyv@gmail.com
+    generated_timestamp: 1764388201
